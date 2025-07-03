@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on the development of my protein spectroscopy analysis AI and associated tools for my nascent ConoWare project (ConoBot repo coming soon!) (email or mesaage me here if anyone has questions about such research and development)
 - 📫 lukelevensaler@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Learning Python, JSON, and asm/C right now. I'm also a big UNIX guy and I primarily use MacOS and a modified version of Debian for bioinformatics/medicine.
--  My favorite editor is ironically VSCode, despite my aversion to Microsoft Windows
 
 <!---
 lukelevensaler/lukelevensaler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

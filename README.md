@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukelevensaler
 - 👀 I’m a marine biologist (in training) 
 - 🌱 I’m especially interested in marine pharmacological bioinformatics
-- 💞️ I’m looking to collaborate on the development of my protein spectroscopy analysis AI and associated tools for my nascent ConoWare project (ConoBot repo coming soon!) (email or mesaage me here if anyone has questions about such research and development)
+- 💞️ I’m looking to collaborate on the development of my protein spectroscopy analysis AI and associated tools for the nascent ConoWare project (ConoBot repo coming soon!) (email or mesaage me here if anyone has questions about such research and development)
 - 📫 lukelevensaler@gmail.com
 - 😄 Pronouns: he/him
 

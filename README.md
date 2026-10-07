@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @lukelevensaler
-- 👀 I’m a student researcher interested in marine pharmacological bioinformatics
-- I’m looking to collaborate on the development of my  spectroscopy analysis AI tool for cone snail (and other Neogastropod taxa) venom proteins, ConoBot, and associated tools for the ConoWare Project (conowareproject.org)
-- 📫 lukelevensaler@gmail.com (personal) or levensalerl28@kua.org (school)
-- I go to Kimball Union Academy (class of 2028)
+# Luke Levensaler
+Student researcher and moonshot startup founder of The ConoWare Project (conowareproject.com). Kimball Union Academy class of 2028.
+
+# Contact
+* **Email:** lukelevensaler@gmail.com (personal) or levensalerl28@kua.org (school)
+* **LinkedIn:** https://www.linkedin.com/in/luke-levensaler-6b054b329/
+
 
 <!---
 lukelevensaler/lukelevensaler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

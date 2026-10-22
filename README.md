@@ -1,5 +1,5 @@
 # Luke Levensaler
-Student researcher and moonshot startup founder of The ConoWare Project (conowareproject.com). Kimball Union Academy class of 2028.
+Student researcher and moonshot startup founder of The ConoWare Project (conowareproject.com).
 
 # Contact
 * **Email:** lukelevensaler@gmail.com (personal) or levensalerl28@kua.org (school)
